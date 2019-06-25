@@ -1,7 +1,7 @@
 DECLARE 
 	-- init variables
 	b_update boolean;
-	n_len tinyint(2) := 0;
+	n_len smallint(2) := 0;
 BEGIN
 	FOR n IN (SELECT * FROM external_doc 
 		WHERE (
