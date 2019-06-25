@@ -13,7 +13,7 @@ BEGIN
 		AND STATUS != 'New')
 		LOOP
 			-- reset for each loop
-			b_update = FALSE;
+			b_update := FALSE;
 
 			-- check if criteria is met 
 
