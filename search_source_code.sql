@@ -4,4 +4,4 @@
 */
 SELECT *
 FROM dba_source
-WHERE text LIKE '%my_search_query%'
+WHERE upper(text) LIKE upper('%my_search_query%')
