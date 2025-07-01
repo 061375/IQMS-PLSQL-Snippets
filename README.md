@@ -2,10 +2,12 @@
 
 ## Jeremy Heminger contact@jeremyheminger.com
 
+ [Webpage](https://jeremyheminger.com/article/aquamor-recent-professional-work-recent-professional-work-oracle-sql/delmiaworks-iqms-plsql)
 
-ᓚᘏᗢ
+          ᓚᘏᗢ
 
  These are PL/SQL queries, triggers, packages, etc... I wrote to handle various requirements.
+ 
  
  ### IQMS release 2024 - Refresh 2
 
