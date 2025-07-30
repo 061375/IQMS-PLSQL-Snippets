@@ -1,8 +1,11 @@
+
 # aq_trigger_bi_ps_ticket
-## Automatically add a note when new pick ticket is added for specified customer(s)
+## Automatically add a note when new pick ticket is added for specified customer(s).
+## The note can be added in the Inventory module under -> Documents ( see [Documentation](Auto-Populate%20Pick%20Ticket%20Notes.pdf) )
 ## Jeremy Heminger <jeremy.heminger@aquamor.com>, <contact@jeremyheminger.com>
 
                                                 ᓚᘏᗢ
+
 
 
 # Versions
