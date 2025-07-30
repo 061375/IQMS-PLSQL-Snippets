@@ -13,8 +13,6 @@
 ## ⬆️📅 June 1, 2025
 ## ⬆️ 1.0.0.6
 
-*   🐞 KNOWN - Currently the extraction of the data from the Rich Text editor only allows for all upper case and no formatting or it will strip letters
-
 * ## 1.0.0.6
 *   🐞 use cntr_seq column on cntr_sched table in order to avoid conflict with update schedule feature
 * ## 1.0.0.5
