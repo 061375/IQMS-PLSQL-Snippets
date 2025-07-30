@@ -12,7 +12,7 @@
 
 ## 📅 May 7, 2025
 ## ⬆️📅 July 11, 2025
-## ⬆️ 1.0.0.1
+## ⬆️ 2.0.0.1
 
 *   🐞 KNOWN - Currently the extraction of the data from the Rich Text editor only allows for all upper case and no formatting or it will strip letters
 
