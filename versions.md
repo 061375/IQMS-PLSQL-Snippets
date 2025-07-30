@@ -23,10 +23,13 @@
 
 [aq_trigger_bi_ps_ticket.md](aq_trigger_bi_ps_ticket.md)
 
+[aq_trigger_addnegwo_loc.md](aq_trigger_addnegwo_loc.md)
+
 * ## 1.0.0.3
 *   🐱 Add std_future_cost_comparison.sql
 *   🐱 Add HomeDepot.com_Standard_script.sql
 *   🐱 Add aq_trigger_bi_ps_ticket.sql
+*   🐱 aq_trigger_addnegwo_loc.sql
 * ## 1.0.0.2
 *   🐱 Add line-breaks to versions.md
 * ## 1.0.0.1
