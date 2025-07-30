@@ -23,6 +23,7 @@
 
 * ## 1.0.0.3
 *   🐱 Add std_future_cost_comparison.sql
+*   🐱 Add HomeDepot.com_Standard_script.sql
 * ## 1.0.0.2
 *   🐱 Add line-breaks to versions.md
 * ## 1.0.0.1
