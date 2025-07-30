@@ -1,5 +1,5 @@
 
-# aq_trigger_bi_ps_ticket
+# aq_trigger_addnegwo_loc
 ## When a user moves the center schedule position this adds a zero location for the work order.
 ## Jeremy Heminger <jeremy.heminger@aquamor.com>, <contact@jeremyheminger.com>
 
