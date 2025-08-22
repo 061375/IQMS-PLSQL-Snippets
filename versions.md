@@ -1,7 +1,11 @@
 # Versions
 
 ## 📅 May 8, 2025
-## ⬆️📅 July 30, 2025
+## ⬆️📅 August 22, 2025
+
+[bomrevparents_by_itemno.md](bomrevparents_by_itemno.md)
+
+[bomrevparents_by_id.md](bomrevparents_by_id.md)
 
 [aq_cogs_qtr.md](aq_cogs_qtr.md)
 
@@ -25,6 +29,9 @@
 
 [aq_trigger_addnegwo_loc.md](aq_trigger_addnegwo_loc.md)
 
+* ## 1.0.0.4
+*   🐱 Add [bomrevparents_by_itemno.sql](bomrevparents_by_itemno.sql)
+*   🐱 Add [bomrevparents_by_id.sql](bomrevparents_by_id.sql)
 * ## 1.0.0.3
 *   🐱 Add std_future_cost_comparison.sql
 *   🐱 Add HomeDepot.com_Standard_script.sql
