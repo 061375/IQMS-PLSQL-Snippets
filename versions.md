@@ -1,7 +1,9 @@
 # Versions
 
 ## 📅 May 8, 2025
-## ⬆️📅 August 22, 2025
+## ⬆️📅 October 1, 2025
+
+[v_aq_bom_lookup.md](v_aq_bom_lookup.md)
 
 [bomrevparents_by_itemno.md](bomrevparents_by_itemno.md)
 
@@ -29,6 +31,8 @@
 
 [aq_trigger_addnegwo_loc.md](aq_trigger_addnegwo_loc.md)
 
+* ## 1.0.0.5
+*   🐱 Add [v_aq_bom_lookup.sql](v_aq_bom_lookup.sql)
 * ## 1.0.0.4
 *   🐱 Add [bomrevparents_by_itemno.sql](bomrevparents_by_itemno.sql)
 *   🐱 Add [bomrevparents_by_id.sql](bomrevparents_by_id.sql)
