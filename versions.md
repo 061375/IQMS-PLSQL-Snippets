@@ -1,7 +1,11 @@
 # Versions
 
 ## 📅 May 8, 2025
-## ⬆️📅 October 1, 2025
+## ⬆️📅 October 7, 2025
+
+[v_aq_bom_schedule.md](v_aq_bom_schedule.md)
+
+[v_aq_finite_sched.md](v_aq_finite_sched.md)
 
 [v_aq_bom_lookup.md](v_aq_bom_lookup.md)
 
@@ -31,6 +35,10 @@
 
 [aq_trigger_addnegwo_loc.md](aq_trigger_addnegwo_loc.md)
 
+* ## 1.0.0.6
+*   🐱 Add [v_aq_bom_schedule.sql](v_aq_bom_schedule.sql)
+*   🐱 Add [v_aq_finite_sched.sql](v_aq_finite_sched.sql)
+*   🐱 Update [v_aq_bom_lookup.sql](v_aq_bom_lookup.sql)
 * ## 1.0.0.5
 *   🐱 Add [v_aq_bom_lookup.sql](v_aq_bom_lookup.sql)
 * ## 1.0.0.4
