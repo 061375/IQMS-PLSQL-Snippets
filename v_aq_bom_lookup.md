@@ -23,6 +23,8 @@
 # Versions
 
 ## 📅 October 1, 2025
-## ⬆️📅 October 1, 2025
+## ⬆️📅 October 7, 2025
 
+* ## 1.0.0.1
+*   🐱 Added: sndop_id and parent_arinvt_id
 * ## 1.0.0.0
