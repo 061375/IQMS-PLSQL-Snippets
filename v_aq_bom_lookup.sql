@@ -3,16 +3,18 @@
  * @about parent child standard_id and arinvt_id and partno_id
  * @author Jeremy Heminger
  * @date october 1, 2025
- * @last_update october 7, 2025
+ * @last_update November 4, 2025
  * 
- * @version 1.0.0.1
+ * @version 1.0.0.3
+ * 	add opmat_id
+ * @version 1.0.0.2
  *
- * @live false
+ * @live TRUE
  * */
 create or replace view v_aq_bom_lookup as
 	select 
     	distinct 
-            s.id as standard_id,a.id as arinvt_id,bd.partno_id,sd.id as sndop_id,p.arinvt_id as parent_arinvt_id
+            s.id as standard_id,a.id as arinvt_id,bd.partno_id,sd.id as sndop_id,p.arinvt_id as parent_arinvt_id,op.id as opmat_id
 	from 
 	    standard s,
 	    partno p,
@@ -25,3 +27,4 @@ create or replace view v_aq_bom_lookup as
 	    and bd.sndop_id = sd.id 
 	    and sd.id = op.sndop_id
 	    and op.arinvt_id = a.id
+    
