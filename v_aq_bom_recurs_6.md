@@ -5,6 +5,8 @@
 
                                                 ᓚᘏᗢ
 
+# Dependancies
+- v_aq_bom_lookup
 
 # Versions
 
